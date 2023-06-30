@@ -1,4 +1,4 @@
-package App;
+package app;
 
 public class DbSetting {
     private String name;
